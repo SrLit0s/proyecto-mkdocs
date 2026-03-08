@@ -1,0 +1,7 @@
+site_name: Proyecto de Carlos Martínez Martínez
+site_url: https://SrLit0s.github.io/proyecto-mkdocs/
+theme:
+    name: material
+
+nav:
+ -Inicio: index.md
